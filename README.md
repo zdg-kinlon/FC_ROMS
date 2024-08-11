@@ -68,3 +68,8 @@ https://www.rarlab.com/rar/unrardll-701.exe
 
 https://www.nuget.org/api/v2/package/7z.Libs/24.7.0 （nupkg:`bin -> x86 -> 7zxa.dll`）
 
+## 磁碟机的BIOS
+
+### disksys.rom
+
+https://github.com/archtaurus/RetroPieBIOS/blob/master/BIOS/disksys.rom
